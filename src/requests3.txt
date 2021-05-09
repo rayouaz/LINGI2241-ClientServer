@@ -1,0 +1,220 @@
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+1;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+;(.*)everybody.........but(.*)
+;(.*)manger[:;%]malade(.*)
+3;^Les gens(.*)
+2;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+2;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+4;(.*)Think of(.*)nobody was(.*)
+2;(.*) his last words\.
+4;(.*)everybody.........but(.*)
+2;(.*)manger[:;%]malade(.*)
+;(.*) his last words\.
+;(.*)everybody.........but(.*)
